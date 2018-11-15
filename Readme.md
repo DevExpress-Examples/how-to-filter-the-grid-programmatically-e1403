@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyDataObject.cs](./CS/MyDataObject.cs) (VB: [MyDataObject.vb](./VB/MyDataObject.vb))
+* [Page.xaml](./CS/Page.xaml) (VB: [Page.xaml](./VB/Page.xaml))
+* [Page.xaml.cs](./CS/Page.xaml.cs) (VB: [Page.xaml](./VB/Page.xaml))
+<!-- default file list end -->
 # How to filter the grid programmatically
 
 
